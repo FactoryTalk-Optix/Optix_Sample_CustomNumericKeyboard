@@ -1,0 +1,11 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 50
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 1.5460000038146973
