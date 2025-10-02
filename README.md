@@ -2,6 +2,10 @@
 
 How to create a custom numeric key pad in FactoryTalk Optix
 
+## Deprecation notice
+
+Starting with FactoryTalk Optix version 1.6.x, custom keyboards are now available as native feature, this project will not be mantained anymore
+
 ## Cloning the repository
 There are multiple ways to download this project, here are few of them
 
